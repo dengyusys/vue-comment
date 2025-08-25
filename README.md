@@ -16,7 +16,7 @@
 ### 使用vim-plug插件管理器
 在你的 `.vimrc` 文件中添加：
 ```vim
-Plug 'path/to/vim-comment'
+Plug 'dengyusys/vim-comment'
 ```
 
 ## 使用方法
